@@ -1,0 +1,5 @@
+{
+  "_base": "https://john-szetho.github.io/code-jam-samples-feb-2026/",
+  "communal": ["communal/airy-bow.wav", "communal/ambient-arp.wav", "communal/goblet-bow.wav", "communal/improv.wav"],
+  "john": ["john/john-bass-recording.wav", "john/oh-saint-rita.wav"]
+}
